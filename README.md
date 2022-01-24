@@ -3,9 +3,7 @@
 
 ## What is It ?
     
-    ![] (<img src="https://www.conseilsmarketing.com/wp-content/uploads/2015/10/497348.jpg"
-     alt="Markdown Monster icon"
-      /> )
+   [<img src="https://www.conseilsmarketing.com/wp-content/uploads/2015/10/497348.jpg">](http://google.com.au/)
  
   MasterMind is a game of concentration and possibilities 
   The goal in MasterMind is to correctly guess the code entered by the
