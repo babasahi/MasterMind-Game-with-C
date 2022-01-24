@@ -2,8 +2,8 @@
 
 
 ## What is It ?
-
-    (<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.conseilsmarketing.com%2Ftechniques-de-ventes%2Fcomment-organiser-un-master-mind%2F&psig=AOvVaw0o9QKG3GgQF3beTQllkv52&ust=1643128060159000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiBkJjnyvUCFQAAAAAdAAAAABAD"
+    
+    ![] (<img src="https://www.conseilsmarketing.com/wp-content/uploads/2015/10/497348.jpg"
      alt="Markdown Monster icon"
       /> )
  
