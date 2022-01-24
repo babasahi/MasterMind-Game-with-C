@@ -22,7 +22,7 @@
  For example When you use it at the 10th try.                                                                                                         
  You Pass directly to the 13th.                                                     
  And When used at 17th try you finish the game.                                                                                 
-              **Call JOKER ?
+              **Call JOKER ?**
               
 When you reach 10th try you Will be prompted to use the Joker.  
 
@@ -47,4 +47,4 @@ The first player chooses a code of 5 digits then the other player tries to guess
   
 
 
- Made with ❤ by [hamade-kj](https://github.com/hamade-kj) && [mohamed-mahmod-hanenne](https://github.com/mohamed-mahmoud-hanenne)
+ **Made with ❤ by [hamade-kj](https://github.com/hamade-kj) && [mohamed-mahmod-hanenne](https://github.com/mohamed-mahmoud-hanenne)**
