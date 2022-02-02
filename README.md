@@ -47,4 +47,4 @@ The first player chooses a code of 5 digits then the other player tries to guess
   
 
 
- **Made with ❤ by [hamade-kj](https://github.com/hamade-kj) && [mohamed-mahmod-hanenne](https://github.com/mohamed-mahmoud-hanenne)**
+ **Made with ❤ by [hamade-kj](https://github.com/hamade-kj) && [mohamed-mahmod-hanenne](https://github.com/mohamed-mahmoud-hanenne) && [Babe Saleh Mahfoud](https://github.com/babe-saleh-mahfoud)**
